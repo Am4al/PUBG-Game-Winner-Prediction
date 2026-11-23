@@ -1,0 +1,13 @@
+# Large dataset files (GitHub rejects files > 100 MB; pubg.csv is ~659 MB)
+Data/
+*.csv
+*.zip
+
+# Checkpoints and temporary files
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
